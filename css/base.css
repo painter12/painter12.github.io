@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+
+
+}
+a{
+    text-decoration: none;
+	/* text-decoration: none;     去掉a标签下划线 */
+}
+body{
+	font-size: 12px;
+	font-family: "微软雅黑","宋体"；
+
+}
+		/* 去掉a标签下划线 */ 
+		  /* text-decoration：none； */
+		  /* a标签不能嵌套a标签 */
+		  /* 必须加入a标签才能进行跳转形式 */
+		  /* a标签的字体颜色不能继承 单独设置*/
